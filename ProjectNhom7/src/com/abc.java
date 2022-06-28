@@ -8,5 +8,7 @@ public class abc {
 		int b = 5;
 		int tong = a +b;
 		System.err.println(tong);
+		
+		System.out.println("123123123");
 	}
 }
